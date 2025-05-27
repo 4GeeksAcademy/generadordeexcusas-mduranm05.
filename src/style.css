@@ -1,5 +1,11 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    color: white;
+    background: black;
+    margin-top: 200px;
+    font-size:40px;
+    font-weight:bold;
 }
+
+
